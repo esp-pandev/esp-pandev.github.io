@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 'Web Technolgy',
                 'Web Design',
                 'Web Application & Software Development',
-                'Database Designe & Development',
+                'Database Design & Development',
                 'System Analysis & Design',               
             ],
             typeSpeed: 50,
