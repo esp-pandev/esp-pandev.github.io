@@ -24,10 +24,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (typeof Typed !== 'undefined') {
         var typed = new Typed('#typing-text', {
             strings: [
+                'Programming',
                 'Web Technolgy',
                 'Web Design',
-                'Web Application & Software Development',
-                'Database Design & Development',
+                'Software Application Development',
+                'Database Design & Management',
                 'System Analysis & Design',               
             ],
             typeSpeed: 50,
