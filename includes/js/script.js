@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
             backSpeed: 30,
             loop: true,
             showCursor: true,
-            cursorChar: '|',
+            cursorChar: '',
             smartBackspace: true
         });
     } else {
