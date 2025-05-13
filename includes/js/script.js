@@ -24,10 +24,10 @@ document.addEventListener('DOMContentLoaded', function() {
     if (typeof Typed !== 'undefined') {
         var typed = new Typed('#typing-text', {
             strings: [
-                'My Holy Trinity',
-                'Coding',
-                'Liverpool FC',
-                'Coffee',               
+                'My Holy Trinity -->',
+                '1. Coding',
+                '2. Liverpool FC',
+                '3. Coffee',               
             ],
             typeSpeed: 50,
             backSpeed: 30,
